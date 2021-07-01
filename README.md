@@ -1,5 +1,4 @@
 # Destini 🤔
 
-## Our Goal
-
-In this challenge, we will use Dart OOP principles to build a well organised project.
+Using Dart OOP principles to build a well organised project.
+Story based application with different responses based on user action.
